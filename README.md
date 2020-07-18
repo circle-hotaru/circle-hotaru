@@ -12,7 +12,7 @@
 
 Hi, I'm circlehotarux, a Front-end Web Developer 🚀 from China, currently, I'm a junior student in Huizhou University. Beside's programming, I enjoy photograph.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/2HONNTJbRhzKE/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -34,6 +34,6 @@ Hi, I'm circlehotarux, a Front-end Web Developer 🚀 from China, currently, I'm
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=circle-hotaru&show_icons=true&hide_border=true)
+![circlehotarux's github stats](https://github-readme-stats.vercel.app/api?username=circle-hotaru&show_icons=true&hide_border=true)
 
 ⭐️ From [circlehotarux](https://github.com/circle-hotaru)
