@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm circlehotarux, a Front-end Web Developer 🚀 from China, currently, I'm a junior student in Huizhou University. Beside's programming, I enjoy photograph.
+Hi, I'm circlehotarux, a Front End Web Developer 🚀 from China, currently, I'm a junior student in Huizhou University. Beside's programming, I enjoy photograph.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/2HONNTJbRhzKE/giphy.gif" />
 
