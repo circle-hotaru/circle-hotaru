@@ -5,7 +5,7 @@
 <a href="https://twitter.com/CircleHotaru"><img src="https://img.shields.io/badge/dynamic/json?colorA=24292e&colorB=5194f0&label=TWITTER&query=%24.data.subsInEachSource.twitter&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcircle-hotaru%26source%3DjikeFollower%26queryKey%3De2e0201c-5a4f-418f-a29c-32620885a0a7%26source%3Dtwitter%26queryKey%3DCircleHotaru%26source%3Dinstagram%26queryKey%3Dcirclehotarux&logo=twitter"></a>
 <a href="https://www.instagram.com/circlehotarux/"><img src="https://img.shields.io/badge/dynamic/json?colorA=24292e&colorB=5194f0&label=instagram&query=%24.data.subsInEachSource.instagram&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcircle-hotaru%26source%3DjikeFollower%26queryKey%3De2e0201c-5a4f-418f-a29c-32620885a0a7%26source%3Dtwitter%26queryKey%3DCircleHotaru%26source%3Dinstagram%26queryKey%3Dcirclehotarux&logo=instagram"></a>
 
-Hi, I'm circlehotarux, a Front End Web Developer 🚀 from China, currently, I'm a junior student in Huizhou University. Beside's programming, I enjoy photograph.
+Hi, I'm circlehotarux, a Front End Web Developer 🚀 from China, currently, I'm a senior student in Huizhou University. Beside's programming, I enjoy photograph.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/2HONNTJbRhzKE/giphy.gif" />
 
