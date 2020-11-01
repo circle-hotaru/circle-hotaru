@@ -12,7 +12,7 @@ Hi, I'm circlehotarux, a Front End Web Developer 🚀 from China, currently, I'm
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently looking for a front-end development job;
-- 🌱 I’m currently learning -Vue.js; 
+- 🌱 I’m currently learning Vue.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mightyherox@gmail.com;
 
