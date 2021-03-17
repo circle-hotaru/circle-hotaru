@@ -38,9 +38,9 @@ Hi, I'm circlehotarux, a Front-end Web Developer from China. Currently, I'm purs
 ## 🚧 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  8,364 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 477 tasks so far           
+🏆  8,370 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 478 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
