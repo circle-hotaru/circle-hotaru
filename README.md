@@ -12,7 +12,6 @@ Hi, I'm circlehotarux, a Front-end Web Developer from China. Currently, I'm purs
 
 ## 💬 Talking about Personal Stuffs:
 
-- 👨‍💻 I’m currently looking for a front-end development job;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mightyherox@gmail.com;
 
