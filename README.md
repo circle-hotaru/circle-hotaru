@@ -34,13 +34,4 @@ Hi, I'm circlehotarux, a Front-end Developer from China. Besides programming, I 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 
-## 🚧 Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  9,246 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 597 tasks so far           
-⏳  Longest streak is 18 days
-<!-- TODO-IST:END -->
-
 ![circlehotarux's github stats](https://github-readme-stats.vercel.app/api?username=circle-hotaru&show_icons=true&hide_border=true)
