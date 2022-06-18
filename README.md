@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Hi, I'm [circlehotarux](https://blog.mightyherox.me), a Front-end Developer.
+Hi, I'm [circlehotarux](https://www.circlehotarux.me), a Front-end Developer.
 
 <img alt="GIF" src="https://media.giphy.com/media/2HONNTJbRhzKE/giphy.gif" />
 
