@@ -1,12 +1,12 @@
 ## Hey there 👋
 
-Hi, I'm [circlehotarux](https://www.incircle.dev), a frontend developer.
+Hi, I'm [incircle](https://www.incircle.dev), a frontend developer.
 
 <img alt="GIF" src="https://media.giphy.com/media/2HONNTJbRhzKE/giphy.gif" />
 
 ## 💬 Talking about Personal Stuffs:
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: circlehotarux@gmail.com.
+- 📫 How to reach me: incircledev@gmail.com.
 
-![circlehotarux's github stats](https://github-readme-stats.vercel.app/api?username=circle-hotaru&show_icons=true&theme=aura&hide_border=true)
+![incircle's github stats](https://github-readme-stats.vercel.app/api?username=circle-hotaru&show_icons=true&theme=aura&hide_border=true)
